@@ -1,5 +1,5 @@
 # Quiz_Game
-This is the repository of the project Quiz Gmae using Python
+This is the repository of the project Quiz Game using Python
 
 This Quiz Game contains a variety of categories that we like and know.
 
