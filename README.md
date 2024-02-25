@@ -7,15 +7,17 @@
 ## How to Start Your Global Quest?
 
 1. **Knowledge Gateway:**
-   ``make a clone of this project 
+   ``make a clone of this project
+   ```bash
+    git clone 
 
-2. **Launch the Global Guru Expedition:**
+3. **Launch the Global Guru Expedition:**
   
    ```bash
      python quiz_categories.py
    
 
-3. **Answer, Explore, Conquer:**
+4. **Answer, Explore, Conquer:**
    - Roam through questions inspired by the rich tapestry of human knowledge.
    - Choose your quest: Anime realms, Hollywood glitz, Tamil Cinema charm, historical epics, or the vast expanse of general knowledge , Marvel mastery etc  .
    - Ascend to the coveted title of Global Guru by mastering a mosaic of wisdom!
