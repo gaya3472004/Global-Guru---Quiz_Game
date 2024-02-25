@@ -67,7 +67,7 @@ class QuizGame:
 
 def main():
     quiz_game = QuizGame()
-    print("Welcome to the Game of World!!!")
+    print("Welcome to the Global Guru!!!")
 
     file_path = 'quiz_data_with_categories.csv'  # Replace with your file path
     quiz_game.load_quiz_data(file_path)
