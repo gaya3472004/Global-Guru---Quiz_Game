@@ -9,7 +9,7 @@
 1. **Knowledge Gateway:**
    ``make a clone of this project
    ```bash
-    git clone 
+    git clone https://github.com/gaya3472004/Global-Guru---Quiz_Game.git
 
 3. **Launch the Global Guru Expedition:**
   
