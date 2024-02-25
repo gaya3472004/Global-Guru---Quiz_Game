@@ -10,9 +10,10 @@
    ``make a clone of this project 
 
 2. **Launch the Global Guru Expedition:**
+  
+   ```bash
+     python quiz_categories.py
    
-   python quiz_categories.py
-   ```
 
 3. **Answer, Explore, Conquer:**
    - Roam through questions inspired by the rich tapestry of human knowledge.
