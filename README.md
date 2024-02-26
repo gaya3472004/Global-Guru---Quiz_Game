@@ -31,6 +31,13 @@ Shape your journey with customization options! Add your questions, weave new cat
 Become a contributor to the Global Guru legacy! Report glitches like a superhero, propose blockbuster features, or suggest new realms of questions. Let's forge a united front of knowledge!
 
 Explore responsibly and let the quest for knowledge guide you!
+   1)Fork this repository 
+   2)Clone this repository
+   3)Do your work and stage your changes.
+   4)Commit you changes with a commit message containing your name, file(s) worked 
+    upon, changes added.
+   5)Push changes to your forked repository
+
 
 🚀 Embark on the Global Guru Odyssey and Uncover the Tapestry of Human Wisdom! 🌟
 ```
